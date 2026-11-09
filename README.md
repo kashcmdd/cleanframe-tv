@@ -7,6 +7,11 @@ settings that stay out of the way.
 This is the **base build**: no device-specific extras (no smart-light integration,
 no game-mode shortcuts). Those belong in your own fork — see `docs/EXTENDING.md`.
 
+![CleanFrame TV home screen](screenshots/home.png)
+
+*Screenshots come from the author's build, which adds two extra utility buttons in the
+top-right row. The base ships with All apps and Settings only.*
+
 ## What it does
 
 - **Dock or list layout** with horizontal scrolling and a focus plate
@@ -20,6 +25,10 @@ no game-mode shortcuts). Those belong in your own fork — see `docs/EXTENDING.m
 - **Config export/import** to `Download/cleanframe-config.json`, plus a
   last-known-good backup so a bad read can't wipe your layout
 - Runs fully offline: **no `INTERNET` permission**
+
+![All apps](screenshots/all-apps.png)
+
+![Settings](screenshots/settings.png)
 
 ## Requirements
 

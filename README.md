@@ -1,5 +1,9 @@
 # CleanFrame TV
 
+![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A clean, fast home screen for Android TV / Google TV boxes, built as a WebView
 launcher. No recommendations, no sponsored rows — a dock of your apps, a clock, and
 settings that stay out of the way.
